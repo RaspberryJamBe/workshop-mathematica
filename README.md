@@ -1,6 +1,6 @@
 # Mathematica
 
-[Mathematica](http://www.wolfram.com/mathematica/) is een toonaangevende technische programmeeromgeving, die wereldwijd gebruikt wordt door wetenschappers en onderwijsinstellingen voor onderzoek, ontwikkeling en educatie. Op de Raspberry Pi is Mathematica gratis te gebruiken is. Grote berekeningen zijn wel praktisch onuitvoerbaar door de zwakke rekenkrachtvan de pi. Maar voor de meeste wiskunde-onderwerpen uit het middelbaar onderwijs is het ideaal.
+[Mathematica](http://www.wolfram.com/mathematica/) is een toonaangevende technische programmeeromgeving, die wereldwijd gebruikt wordt door wetenschappers en onderwijsinstellingen voor onderzoek, ontwikkeling en educatie. Op de Raspberry Pi is Mathematica gratis te gebruiken. Grote berekeningen zijn wel praktisch onuitvoerbaar door de zwakke rekenkrachtvan de pi. Maar voor de meeste wiskunde-onderwerpen uit het middelbaar onderwijs is het ideaal.
 
 ## Wat heb ik nodig?
 
