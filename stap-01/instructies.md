@@ -12,3 +12,31 @@ Bij het opstarten van Mathematica zal je twee vensters zien verschijnen: Een wel
 ![Welkomscherm van Mathematica](welkom1.png)
 
 ![Notebook van Mathematica](welkom2.png)
+
+Laten we beginnen met enkele eenvoudige rekensommen in te voeren in het Notebook-scherm:
+
+```bash
+2 + 1
+2/3 + 1/5
+```
+
+Het resultaat van de laatste som is geen kommagetal, maar een breuk. Dit is namelijk de meest exacte weergave van het resultaat. Bij het berekenen van kommagetallen ontstaan afrondingsfouten. 
+Soms is het echter handig om het komma-getal te berekenen. Dit doe je als volgt:
+
+```bash
+N[2/3 + 1/5]
+```
+
+De constante getallen pi en e (het getal van Euler) zitten ook in Mathematica:
+
+```bash
+N[Pi, 20]
+N[E, 20]
+```
+
+Je kan ook met onbekenden rekenen:
+
+```bash
+3 + 8a + 20(2+a)
+```
+
