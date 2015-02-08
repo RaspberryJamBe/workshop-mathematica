@@ -17,9 +17,18 @@ Je kan ook de nulpunten van een functie berekenen, zoals in de volgende screensh
 
 ![Nulpunt van een functie](nulpunt1.png)
 ![Nulpunt van een functie](nulpunt2.png)
+
+De functie kan ook geplot worden. Daardoor zien we de nulpunten liggen.
+
 ![Nulpunt van een functie](nulpunt3.png)
+
+Ook functies die geen reële nulpunten hebben, kunnen opgelost worden. Mathematica berekent dan de complexe nulpunten.
+
 ![Nulpunt van een functie](nulpunt4.png)
 ![Nulpunt van een functie](nulpunt5.png)
+
+Doordat Mathematica liever niet afrondt, kan het resultaat snel een rommeltje lijken.
+
 ![Nulpunt van een functie](nulpunt6.png)
 ![Nulpunt van een functie](nulpunt7.png)
 
